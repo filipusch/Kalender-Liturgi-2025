@@ -1,12 +1,15 @@
 {
-  "2025-01-01": {
-    "name": "Santa Maria Bunda Allah",
-    "description": "Hari Raya Santa Maria Bunda Allah adalah perayaan liturgis untuk menghormati Maria sebagai Bunda Allah.",
-    "color": "white"
+  "liturgiTeks": {
+    "2025-04-30": "St. Pius V, Paus — Paus yang memimpin Konsili Trente dan memperbarui liturgi Gereja Katolik.",
+    "2025-05-01": "Hari Buruh Internasional — Hari libur nasional dan kesempatan mendoakan para pekerja."
   },
-  "2025-04-20": {
-    "name": "Hari Raya Paskah",
-    "description": "Perayaan kebangkitan Yesus Kristus dari kematian.",
-    "color": "white"
+  "hariLiburNasional": [
+    "2025-05-01",
+    "2025-05-29", 
+    "2025-06-01"
+  ],
+  "warnaLiturgi": {
+    "2025-04-30": "white",
+    "2025-05-01": "red"
   }
 }
