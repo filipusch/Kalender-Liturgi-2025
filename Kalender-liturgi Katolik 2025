@@ -1,15 +1,21 @@
 {
-  "liturgiTeks": {
-    "2025-04-30": "St. Pius V, Paus — Paus yang memimpin Konsili Trente dan memperbarui liturgi Gereja Katolik.",
-    "2025-05-01": "Hari Buruh Internasional — Hari libur nasional dan kesempatan mendoakan para pekerja."
-  },
-  "hariLiburNasional": [
-    "2025-05-01",
-    "2025-05-29", 
-    "2025-06-01"
-  ],
-  "warnaLiturgi": {
-    "2025-04-30": "white",
-    "2025-05-01": "red"
+  "2025-04-30": {
+    "title": "Rabu, 30 April 2025",
+    "orangKudus": {
+      "judul": "Santo Pius V",
+      "deskripsi": "Paus yang membela iman Katolik dan mempromosikan Konsili Trente. Dikenal karena mendorong doa Rosario."
+    },
+    "bacaanPL": {
+      "judul": "Kisah Para Rasul 8:1b-8",
+      "deskripsi": "Saulus menganiaya Gereja. Filipus memberitakan Injil di Samaria dan terjadi banyak mujizat."
+    },
+    "mazmur": {
+      "judul": "Mazmur 66:1-7",
+      "deskripsi": "Bersorak-sorailah bagi Allah, hai seluruh bumi!"
+    },
+    "bacaanPB": {
+      "judul": "Yohanes 6:35-40",
+      "deskripsi": "Yesus berkata: Akulah roti hidup. Barangsiapa datang kepada-Ku, ia tidak akan lapar lagi."
+    }
   }
 }
