@@ -1,0 +1,12 @@
+{
+  "2025-01-01": {
+    "name": "Santa Maria Bunda Allah",
+    "description": "Hari Raya Santa Maria Bunda Allah adalah perayaan liturgis untuk menghormati Maria sebagai Bunda Allah.",
+    "color": "white"
+  },
+  "2025-04-20": {
+    "name": "Hari Raya Paskah",
+    "description": "Perayaan kebangkitan Yesus Kristus dari kematian.",
+    "color": "white"
+  }
+}
